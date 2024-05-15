@@ -1,4 +1,8 @@
 ### Hi there 👋
+meu nome é Karina Barros 
+sou professora do alura, estou desenvolvendo a linguagem java com os alunos do ensino medio 
+ultilizo este espaço para compartilhar o que trabalhamos.
+
 
 <!--
 **karinakab/karinakab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
