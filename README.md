@@ -1,6 +1,6 @@
 ### Hi there 👋
-meu nome é Karina Barros 
-sou professora do alura, estou desenvolvendo a linguagem java com os alunos do ensino medio 
+Meu nome é Karina Barros 
+sou professora do alura, estou desenvolvendo a linguagem java com os alunos do ensino médio 
 ultilizo este espaço para compartilhar o que trabalhamos.
 
 
